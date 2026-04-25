@@ -1,0 +1,39 @@
+Team
+The doctors, nutritionists and educators behind SHARAN.
+<section class="page-header">
+  <div class="container">
+    <div class="crumbs"><a href="index.html">Home</a> / Team</div>
+    <h1>Team &amp; Doctors</h1>
+    <p class="lead" style="max-width: 62ch;">SHARAN is a team of doctors, nutritionists, health coaches, chefs and facilitators who share one commitment: to help you reach your highest health potential.</p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="feature">
+      <div class="visual" data-label="Dr. Nandita Shah · Founder"></div>
+      <div>
+        <span class="program-tag">Founder</span>
+        <h2>Dr. Nandita Shah</h2>
+        <p>Dr. Nandita Shah is a homeopath, author and health educator who has spent more than three decades teaching that most chronic disease is rooted in lifestyle and is reversible. She founded SHARAN in 2005.</p>
+        <p>In 2016 she received the <strong>Nari Shakti Puraskar</strong>, the highest civilian honour for women in India, awarded by the President of India.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="background: var(--paper); border-top: 1px solid var(--line);">
+  <div class="container">
+    <div class="section-head">
+      <div class="section-eyebrow">The wider team</div>
+      <h2>Doctors, nutritionists, coaches, chefs, facilitators.</h2>
+      <p>Programs and consultations at SHARAN are delivered by a wider team of qualified professionals. Replace the placeholder cards below with the team page from the live site once available.</p>
+    </div>
+    <div class="cards cols-4">
+      <div class="card"><h3>Doctor name</h3><p class="text-mute">Role / specialty</p><p>One-line bio.</p></div>
+      <div class="card"><h3>Nutritionist name</h3><p class="text-mute">Role / specialty</p><p>One-line bio.</p></div>
+      <div class="card"><h3>Coach name</h3><p class="text-mute">Role / specialty</p><p>One-line bio.</p></div>
+      <div class="card"><h3>Chef / educator</h3><p class="text-mute">Role / specialty</p><p>One-line bio.</p></div>
+    </div>
+  </div>
+</section>

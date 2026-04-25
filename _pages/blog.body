@@ -1,0 +1,53 @@
+Blog
+Articles and stories from the SHARAN team and community.
+<section class="page-header">
+  <div class="container">
+    <div class="crumbs"><a href="index.html">Home</a> / Blog</div>
+    <h1>Blog</h1>
+    <p class="lead" style="max-width: 62ch;">Articles, recipes, research notes and reversal stories from doctors, nutritionists and program alumni.</p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cards">
+      <article class="card">
+        <span class="program-tag">Nutrition</span>
+        <h3>Why fibre is the unsung hero of metabolic health</h3>
+        <p>A short explainer on what fibre actually does in the gut, and why a plant-based plate brings so much of it without effort.</p>
+        <span class="more">Read article →</span>
+      </article>
+      <article class="card">
+        <span class="program-tag">Reversal</span>
+        <h3>What "reversal" really means in Type 2 Diabetes</h3>
+        <p>An honest look at remission, reversal and the difference between coming off medication and being cured.</p>
+        <span class="more">Read article →</span>
+      </article>
+      <article class="card">
+        <span class="program-tag">Kitchen</span>
+        <h3>Five Indian breakfasts that won't crash your energy</h3>
+        <p>Recipes and combinations for whole-grain, plant-based mornings that hold you through to lunch.</p>
+        <span class="more">Read article →</span>
+      </article>
+      <article class="card">
+        <span class="program-tag">Story</span>
+        <h3>"My HbA1c came down — and so did my anxiety."</h3>
+        <p>A program alum on what changed in their life beyond the lab numbers.</p>
+        <span class="more">Read article →</span>
+      </article>
+      <article class="card">
+        <span class="program-tag">Compassion</span>
+        <h3>What "ahimsa on the plate" means in practice</h3>
+        <p>How a non-violent food choice extends from your body to animals, to farms, to the climate.</p>
+        <span class="more">Read article →</span>
+      </article>
+      <article class="card">
+        <span class="program-tag">Sleep</span>
+        <h3>The sleep–blood pressure connection</h3>
+        <p>Why getting your nights right may matter as much as the salt shaker in managing blood pressure.</p>
+        <span class="more">Read article →</span>
+      </article>
+    </div>
+    <p class="text-mute" style="margin-top: var(--space-3); font-size: 0.85rem;">Placeholder posts. Replace with the live blog feed.</p>
+  </div>
+</section>

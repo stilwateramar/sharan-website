@@ -1,0 +1,50 @@
+Workshops
+Workshops, talks and short courses from SHARAN — in person and online.
+<section class="page-header">
+  <div class="container">
+    <div class="crumbs"><a href="index.html">Home</a> / Workshops</div>
+    <h1>Workshops &amp; Talks</h1>
+    <p class="lead" style="max-width: 62ch;">Shorter formats for people who want to dip in — public talks, weekend workshops, and focused short courses on specific topics.</p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cards">
+      <div class="card">
+        <span class="program-tag">Half-day</span>
+        <h3>Introduction to Reversal</h3>
+        <p>An overview of how lifestyle disease develops and how it reverses. Suitable for anyone curious about the SHARAN approach.</p>
+      </div>
+      <div class="card">
+        <span class="program-tag">Weekend</span>
+        <h3>Plant-Based Kitchen</h3>
+        <p>A two-day intensive that gets your kitchen, pantry and weekday meal plan in shape — practical, hands-on, immediately useful.</p>
+      </div>
+      <div class="card">
+        <span class="program-tag">Talk</span>
+        <h3>Public Health Talks</h3>
+        <p>Free and low-cost talks for community groups, companies, schools and hospitals. Get in touch to arrange one in your city.</p>
+      </div>
+      <div class="card">
+        <span class="program-tag">Online</span>
+        <h3>Live Webinars</h3>
+        <p>Recurring live sessions on focused topics — gut health, hormones, sleep, ageing well, raising plant-based children.</p>
+      </div>
+      <div class="card">
+        <span class="program-tag">Corporate</span>
+        <h3>Workplace Wellness</h3>
+        <p>Programs and talks designed for HR teams who want to invest in real, measurable employee health — not just step counts.</p>
+      </div>
+      <div class="card">
+        <span class="program-tag">Community</span>
+        <h3>Schools &amp; Colleges</h3>
+        <p>Age-appropriate sessions on nutrition, animals and the environment for school and college audiences.</p>
+      </div>
+    </div>
+    <div class="hero-actions" style="margin-top: var(--space-4);">
+      <a href="contact.html#workshop" class="btn btn-primary">Host or attend a workshop</a>
+      <a href="programs.html" class="btn btn-outline">See full programs</a>
+    </div>
+  </div>
+</section>

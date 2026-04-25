@@ -1,0 +1,38 @@
+Books
+Books and educational material from SHARAN and Dr. Nandita Shah.
+<section class="page-header">
+  <div class="container">
+    <div class="crumbs"><a href="index.html">Home</a> / Books</div>
+    <h1>Books &amp; Reading</h1>
+    <p class="lead" style="max-width: 62ch;">Books, recipe collections and downloadable guides to extend the SHARAN learning beyond a single program.</p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cards">
+      <div class="card">
+        <div class="visual" data-label="Reversing Diabetes" style="aspect-ratio: 3/4; margin-bottom: var(--space-2); border-radius: var(--radius-md);"></div>
+        <h3>On Reversing Diabetes</h3>
+        <p>The clearest, most practical introduction to the SHARAN approach for people living with — or close to — Type 2 Diabetes.</p>
+        <span class="more">By Dr. Nandita Shah</span>
+      </div>
+      <div class="card">
+        <div class="visual" data-label="Sharan Cookbook" style="aspect-ratio: 3/4; margin-bottom: var(--space-2); border-radius: var(--radius-md);"></div>
+        <h3>The SHARAN Cookbook</h3>
+        <p>A collection of plant-based, whole-food recipes built for Indian kitchens — used and loved by program participants for years.</p>
+        <span class="more">Compiled by SHARAN chefs</span>
+      </div>
+      <div class="card">
+        <div class="visual" data-label="Free Guides" style="aspect-ratio: 3/4; margin-bottom: var(--space-2); border-radius: var(--radius-md);"></div>
+        <h3>Free Guides</h3>
+        <p>Short PDF guides on getting started, label reading, kitchen swaps and travel eating — released free for anyone who wants them.</p>
+        <span class="more">Downloads on request</span>
+      </div>
+    </div>
+    <p class="text-mute" style="margin-top: var(--space-3); font-size: 0.85rem;">Replace these placeholders with the live book listings, covers, and purchase links.</p>
+    <div class="hero-actions">
+      <a href="contact.html#books" class="btn btn-primary">Order or request books</a>
+    </div>
+  </div>
+</section>

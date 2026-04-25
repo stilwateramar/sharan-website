@@ -1,0 +1,39 @@
+Retreats
+Residential SHARAN retreats — immersive stays for health, food and rest.
+<section class="page-header">
+  <div class="container">
+    <div class="crumbs"><a href="index.html">Home</a> / Retreats</div>
+    <h1>Retreats</h1>
+    <p class="lead" style="max-width: 62ch;">Step out of your routine for a few days and into one built around food that heals, mornings that feel calm, and evenings without screens.</p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="feature">
+      <div>
+        <h2>What a retreat looks like</h2>
+        <p>Days begin gently — a walk, breath work, a quiet meal. Mornings are for learning: short, clear sessions on nutrition, sleep, stress, ageing and reversal. Afternoons are for cooking, kitchen practice and personal consultations. Evenings are for community, music, and time outside.</p>
+        <p>Retreats are typically held over four to seven days at locations chosen for clean air, simple food, and proximity to nature.</p>
+      </div>
+      <div class="visual" data-label="A SHARAN retreat morning"></div>
+    </div>
+  </div>
+</section>
+
+<section style="background: var(--paper); border-top: 1px solid var(--line);">
+  <div class="container">
+    <div class="section-head">
+      <div class="section-eyebrow">What you'll come home with</div>
+      <h2>More than a holiday — fewer pills, lighter mornings.</h2>
+    </div>
+    <div class="cards">
+      <div class="card"><div class="icon">🥗</div><h3>A reset palate</h3><p>You'll be surprised how quickly your taste returns to whole, simple food.</p></div>
+      <div class="card"><div class="icon">🧘</div><h3>A calmer baseline</h3><p>Sleep deepens, breathing slows, and the noisy stress baseline quiets down.</p></div>
+      <div class="card"><div class="icon">🤝</div><h3>A small community</h3><p>You leave with a handful of people who are walking the same path.</p></div>
+    </div>
+    <div class="hero-actions" style="margin-top: var(--space-4);">
+      <a href="contact.html#retreat" class="btn btn-primary">Enquire about upcoming retreats</a>
+    </div>
+  </div>
+</section>

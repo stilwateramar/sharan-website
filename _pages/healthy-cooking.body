@@ -1,0 +1,48 @@
+Healthy Cooking
+SHARAN cooking classes — hands-on, plant-based, and built for Indian kitchens.
+<section class="page-header">
+  <div class="container">
+    <div class="crumbs"><a href="index.html">Home</a> / <a href="programs.html">Programs</a> / Healthy Cooking</div>
+    <span class="program-tag">Skills</span>
+    <h1>Healthy Cooking</h1>
+    <p class="lead" style="max-width: 62ch;">Learn to make plant-based food that you and your family actually look forward to — at breakfast, at lunch, at dinner, and at every snack in between.</p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cards cols-2">
+      <div class="card">
+        <h3>In-person classes</h3>
+        <p>Small-group, hands-on classes in cities across India. Cook together, taste together, and walk out with recipes you can repeat the same week.</p>
+        <span class="more">Upcoming dates announced on the contact page.</span>
+      </div>
+      <div class="card">
+        <h3>Online cooking courses</h3>
+        <p>Video-led courses you can follow at your own pace, designed for the home cook with a normal Indian kitchen and pantry — no fancy equipment.</p>
+        <span class="more">Available year-round.</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="background: var(--paper); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);">
+  <div class="container narrow">
+    <h2>What you will be able to make</h2>
+    <ul class="checks">
+      <li>Whole-grain breakfasts that don't crash your energy by eleven.</li>
+      <li>Dals, sabzis and one-pot meals that feel familiar and feel light.</li>
+      <li>Plant-based "dairy" — milks, curds and cheeses — from nuts and seeds.</li>
+      <li>Sweets and snacks that genuinely qualify as healthy.</li>
+      <li>Travel and lunchbox food that holds up away from a kitchen.</li>
+    </ul>
+
+    <h2>Who teaches</h2>
+    <p>Classes are led by SHARAN-trained chefs and educators, with input from our medical and nutrition team. The focus is on food that is delicious first and healthy second — because if it isn't tasty, none of this lasts.</p>
+
+    <div class="hero-actions">
+      <a href="contact.html#enrol" class="btn btn-primary">Enquire about classes</a>
+      <a href="books.html" class="btn btn-outline">Cookbooks</a>
+    </div>
+  </div>
+</section>
