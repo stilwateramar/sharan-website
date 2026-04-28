@@ -1,0 +1,17 @@
+{
+  "name": "sharan-india-backend",
+  "version": "1.0.0",
+  "description": "Backend API powering the SHARAN India website replica (newsletter, location cascade, products, events, recipes, publications, cart).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
